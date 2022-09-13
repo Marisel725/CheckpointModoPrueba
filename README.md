@@ -1,0 +1,2 @@
+# CheckpointModoPrueba
+Examen de prueba
